@@ -865,5 +865,14 @@
         "key": "update_farm_blocks"
       }
     ]
+  },
+  {
+    "version": "0.100.2.10",
+    "changes": [
+      {
+        "type": "RUNNABLE",
+        "key": "disable_modern_eco"
+      }
+    ]
   }
 ]
