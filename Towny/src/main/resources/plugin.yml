@@ -36,14 +36,14 @@ commands:
         aliases: [t]
         description: Towny's Town command, see /town ?
     townyadmin:
-        aliases: [ta]
+        aliases: [t]
         description: Towny's TownyAdmin command, see /ta ?
     townyworld:
         aliases: [tw]
         description: Towny's TownyWorld command, see /tw ?
     invite:
         aliases: [invites]
-        description: Towny's Invite command, see /invite ?
+        description: Towny's Invite command, see /t invite ?
 
 ############################################################
 # +------------------------------------------------------+ #
